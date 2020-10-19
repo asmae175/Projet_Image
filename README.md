@@ -4,6 +4,9 @@ ou déformer On affiche aussi la distance euclidienne de chaque objet avec l'obj
 
 # Démarche du projet 
  1/Détection de contours.
+
  2/Diviser L’image en des cercles et trouver sa signature. 
+ 
  3/Trouver la distance entre les différentes points de l’image et les autres images de Base Données.
+ 
  4/ afficher les images similaires avec la distance euclidienne 
